@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate-level course"
 permalink: /teaching/Reg&Urb
 venue: "Vrije Universiteit, Amsterdam"
-date: 2019-11
+date: 2019-11-01
 location: "Amsterdam, The Netherlands"
 ---
 
