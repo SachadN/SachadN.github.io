@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master of Philosophy in Economics, Tinbergen Institute (University of Amsterdam, Vrije Universiteit, Erasmus University), 2020 
+* BSc. in Economics & Business Economics, Maastricht University, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept 2020 - Now: PhD Candidate 
+  * Vrije Universiteit Amsterdam
+  * Working on regional effects of decarbonisation policy in the EU, focusing on local labour market effects and technology diffusion. 
+  * Supervisors: Prof. Dr. Henri de Groot and Dr. Gerard van der Meijden
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2019 - Aug 2020: Student Assistant
+  * Vrije Universiteit Amsterdam
+  * Supporting teaching activities of the MSc. Spatial, Transport and Environmental Economics of the VU, for Prof. Dr. Henri de Groot. 
+
+* Sept 2017 - Jan 2018: Intern 
+  * International Enterprise Department, Ministry of Foreign Affairs of the Netherlands
+  * Assisting policy officers on designing policy for internationalisation of start-ups, evaluating existing instruments and events, project management and event organisation.  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software
+  * GAMS
+  * Eviews
+  * Stata
+  * Matlab 
+  * R
+  * ArcMap (GIS)
+  * LateX
 
 Publications
 ======
