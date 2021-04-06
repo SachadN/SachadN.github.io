@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * Master of Philosophy in Economics, Tinbergen Institute (University of Amsterdam, Vrije Universiteit, Erasmus University), 2020 
@@ -28,17 +30,7 @@ Work experience
 * Sept 2017 - Jan 2018: Intern 
   * International Enterprise Department, Ministry of Foreign Affairs of the Netherlands
   * Assisting policy officers on designing policy for internationalisation of start-ups, evaluating existing instruments and events, project management and event organisation.  
-  
-Skills
-======
-* Software
-  * GAMS
-  * Eviews
-  * Stata
-  * Matlab 
-  * R
-  * ArcMap (GIS)
-  * LateX
+
 
 Publications
 ======
@@ -46,11 +38,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  
   
 Teaching
 ======
@@ -58,6 +52,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
