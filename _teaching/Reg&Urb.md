@@ -1,7 +1,7 @@
 ---
 title: "Regional and Urban Economics"
 collection: teaching
-type: "Graduate-level course"
+type: "Graduate-level course - Spatial, Transport and Environmental Economics"
 permalink: /teaching/Reg&Urb
 venue: "Vrije Universiteit, Amsterdam"
 date: 2019-11-01
