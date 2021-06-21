@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. The Impact of Decarbonisation Investments on EU Regions: A Spatial Computable General Equilibrium Analysis - Sacha den Nijs, Dr. Olga Ivanova (PBL) - Working paper
+1. The Impact of Decarbonisation Investments on EU Regions: A Spatial Computable General Equilibrium Analysis
+      * Authors: Sacha den Nijs & Dr. Olga Ivanova (PBL)
+      * Status: Working paper
 
 
 {% if author.googlescholar %}
