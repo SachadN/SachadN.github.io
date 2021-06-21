@@ -29,22 +29,7 @@ Work experience
 
 * Sept 2017 - Jan 2018: Intern 
   * International Enterprise Department, Ministry of Foreign Affairs of the Netherlands
-  * Assisting policy officers on designing policy for internationalisation of start-ups, evaluating existing instruments and events, project management and event organisation.  
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  * Assisting policy officers on designing policy for internationalisation of start-ups, evaluating existing instruments and events, project management and event organisation.   
   
 Teaching
 ======
