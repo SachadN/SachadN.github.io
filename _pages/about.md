@@ -12,5 +12,7 @@ I am currently a PhD Candidate at the Spatial Economics department of the Vrije 
 
 My supervisors are Prof. Dr. Henri de Groot, Dr. Gerard van der Meijden and external supervisor Dr. Olga Ivanova (Netherlands Environmental Assessment Agency). 
 
+Additionally, I organize the internal brown-bag seminars of the Spatial Economics department at the Vrije Universiteit Amsterdam (Eureka seminars), and I am a board member of the WO&MEN Network at the VU. 
+
 
 
