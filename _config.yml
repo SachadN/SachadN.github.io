@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sacha den Nijs, PhD"
+title                    : "Sacha den Nijs"
 title_separator          : "-"
 name                     : &name "Sacha den Nijs ="
 description              : &description "PhD Candidate at Vrije Universiteit Amsterdam in Environmental & Regional Economics."
