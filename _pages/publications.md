@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 * Regional labour demand effects of decarbonisation in EU regions: A Spatial Computable General Equilibrium Analysis
-      ** Sacha den Nijs & Dr. Olga Ivanova (PBL)
-      ** Working paper
+     * Sacha den Nijs & Dr. Olga Ivanova (PBL)
+     * Working paper
 
 * Clean Technology Adoption and Skill Sorting
       ** Sacha den Nijs & Stefanos Tyros (VU) 
