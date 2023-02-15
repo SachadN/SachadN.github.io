@@ -44,8 +44,10 @@ Teaching
 Other activities 
 =========
 
+* Board member WO&MEN@VU genderequality network Vrije Universiteit Amsterdam - 2020-Now
+* Organiser Dutch Environmental And Resource Economist (DEARE) Day 2023
+* Organiser internal brown bag seminar Spatial Economics Vrije Universiteit Amsterdam - 2020-Now
 * Volunteer introduction week INKOM Maastricht - 2016-2021
-* Voluntary Community Engagement Project Stellenbosch University - 2018
 * Faculty council member School of Business and Economics Maastricht University - 2016-2017
 
 Skills 
