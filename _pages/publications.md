@@ -13,9 +13,20 @@ author_profile: true
     * Sacha den Nijs & Stefanos Tyros (VU) 
     * Working paper
 
+* The energy efficiency gap and barriers to investments: evidence from the Netherlands
+    * Sacha den Nijs, Leon Bremer (VU), Prof. Dr. Henri de Groot (VU) 
+    * Working paper
+
 * Regional competitive opportunities of fossil fuel cost changes and the role of decarbonization
-    * Sacha den Nijs & Mark Thissen (PBL) 
-    * Work in progress
+    * Sacha den Nijs & Dr. Mark Thissen (PBL Netherlands Environmental Assessment Agency) 
+    * _Work in progress_
+
+
+---
+title: "Policy Papers"
+---
+
+* Weterings, A., Bakens, J., Ivanova, O., den Nijs, S., Thissen, M., Abbink, H., & Bijlsma, I. (2022). Inzicht in arbeidsmarktknelpunten voor de uitvoering van het klimaatbeleid. Available <u><a href="https://www.pbl.nl/publicaties/inzicht-in-arbeidsmarktknelpunten-voor-de-uitvoering-van-het-klimaatbeleid">here</a>.</u>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
