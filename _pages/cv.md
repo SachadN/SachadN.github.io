@@ -21,7 +21,11 @@ Work experience
 * Sept 2020 - Now: PhD Candidate 
   * Vrije Universiteit Amsterdam
   * Working on regional effects of decarbonisation policy in the EU, focusing on local labour market effects and technology diffusion. 
+  * Using input-output analysis, CGE modelling, and empirical methods. 
   * Supervisors: Prof. Dr. Henri de Groot and Dr. Gerard van der Meijden
+
+* Jan 2021 - Now: External researcher PBL Netherlands Environmental Assessment Agency 
+  * Working on various projects in the regional economics department 
 
 * Oct 2019 - Aug 2020: Student Assistant
   * Vrije Universiteit Amsterdam
@@ -37,4 +41,18 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Other activities 
+=========
+
+* Volunteer introduction week INKOM Maastricht - 2016-2021
+* Voluntary Community Engagement Project Stellenbosch University - 2018
+* Faculty council member School of Business and Economics Maastricht University - 2016-2017
+
+Skills 
+========
+
+* Software/coding: 
+    * Stata, R, Matlab, GAMS, GIS, LateX
+* Languages: 
+    * Dutch (mother tongue), English (fluent), Afrikaans (conversational)
 
