@@ -16,6 +16,7 @@ Education
 * Master of Philosophy in Economics, Tinbergen Institute (University of Amsterdam, Vrije Universiteit, Erasmus University), 2020 
 * BSc. in Economics & Business Economics, Maastricht University, 2018
 
+
 Work experience
 ======
 * Sept 2020 - Now: PhD Candidate 
@@ -35,20 +36,23 @@ Work experience
   * International Enterprise Department, Ministry of Foreign Affairs of the Netherlands
   * Assisting policy officers on designing policy for internationalisation of start-ups, evaluating existing instruments and events, project management and event organisation.   
   
+  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
 Other activities 
 =========
 
-* Board member WO&MEN@VU genderequality network Vrije Universiteit Amsterdam - 2020-Now
+* Board member WO&MEN@VU gender equality network Vrije Universiteit Amsterdam - 2020-Now
 * Organiser Dutch Environmental And Resource Economist (DEARE) Day 2023
 * Organiser internal brown bag seminar Spatial Economics Vrije Universiteit Amsterdam - 2020-Now
 * Volunteer introduction week INKOM Maastricht - 2016-2021
 * Faculty council member School of Business and Economics Maastricht University - 2016-2017
+
 
 Skills 
 ========
@@ -56,5 +60,5 @@ Skills
 * Software/coding: 
     * Stata, R, Matlab, GAMS, GIS, LateX
 * Languages: 
-    * Dutch (mother tongue), English (fluent), Afrikaans (conversational)
+    * Dutch (mother tongue), English (fluent), Afrikaans (beginner)
 
