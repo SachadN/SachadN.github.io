@@ -11,7 +11,7 @@ author_profile: true
 
 * Clean Technology Adoption and Skill Sorting
     * Sacha den Nijs & Stefanos Tyros (VU) 
-    * Working paper
+    * Working paper test 
 
 * The energy efficiency gap and barriers to investments
     * Sacha den Nijs, Leon Bremer (VU), Prof. Dr. Henri de Groot (VU) 
