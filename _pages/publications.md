@@ -15,22 +15,21 @@ author_profile: true
 
 * The energy efficiency gap and barriers to investments
     * Sacha den Nijs, Leon Bremer (VU), Prof. Dr. Henri de Groot (VU) 
-    * Working paper. Available [here](https://tinbergen.nl/discussion-paper/6264/23-043-viii-the-energy-efficiency-gap-and-barriers-to-investments)
+    * Working paper. Available <u><a href="https://tinbergen.nl/discussion-paper/6264/23-043-viii-the-energy-efficiency-gap-and-barriers-to-investments">here</a>.</u>
 
 * Regional competitive opportunities of fossil fuel cost changes and the role of decarbonization
     * Sacha den Nijs & Dr. Mark Thissen (PBL Netherlands Environmental Assessment Agency) 
     * Working paper
 
-
 ---
 Policy Papers
-=== 
+==== 
 
 * Weterings, A., Bakens, J., Ivanova, O., den Nijs, S., Thissen, M., Abbink, H., & Bijlsma, I. (2022). Inzicht in arbeidsmarktknelpunten voor de uitvoering van het klimaatbeleid. Available <u><a href="https://www.pbl.nl/publicaties/inzicht-in-arbeidsmarktknelpunten-voor-de-uitvoering-van-het-klimaatbeleid">here</a>.</u>
 
 ---
 Other
-=== 
+==== 
 
 * Weterings, A., Bakens, J., Thissen, M., den Nijs, S., Ivanova, O., & Pestel, N. (2023). Tekort aan technici voor de energietransitie vergt prioritering in investeringen. Available <u><a href="https://esb.nu/tekort-aan-technici-voor-de-energietransitie-vergt-prioritering-in-investeringen/">here</a>.</u>
 
