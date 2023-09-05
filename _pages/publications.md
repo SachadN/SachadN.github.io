@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* TEST! Regional labour demand effects of decarbonisation in EU regions: A Spatial Computable General Equilibrium Analysis
+* Regional labour demand effects of decarbonisation in EU regions: A Spatial Computable General Equilibrium Analysis
      * Sacha den Nijs & Dr. Olga Ivanova (PBL)
      * Working paper
 
@@ -21,10 +21,15 @@ author_profile: true
     * Sacha den Nijs & Dr. Mark Thissen (PBL Netherlands Environmental Assessment Agency) 
     * Working paper
 
+---
 Policy Papers
+=== 
 
 * Weterings, A., Bakens, J., Ivanova, O., den Nijs, S., Thissen, M., Abbink, H., & Bijlsma, I. (2022). Inzicht in arbeidsmarktknelpunten voor de uitvoering van het klimaatbeleid. Available <u><a href="https://www.pbl.nl/publicaties/inzicht-in-arbeidsmarktknelpunten-voor-de-uitvoering-van-het-klimaatbeleid">here</a>.</u>
 
+---
+Other
+=== 
 
 * Weterings, A., Bakens, J., Thissen, M., den Nijs, S., Ivanova, O., & Pestel, N. (2023). Tekort aan technici voor de energietransitie vergt prioritering in investeringen. Available <u><a href="https://esb.nu/tekort-aan-technici-voor-de-energietransitie-vergt-prioritering-in-investeringen/">here</a>.</u>
 
