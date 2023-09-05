@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course - Minor Real Estate and Finance"
 permalink: /teaching/REUP
 venue: "Vrije Universiteit, Spatial Economics"
-date: 2020-2022
+date: 2020-09-01
 location: "Amsterdam, The Netherlands"
 ---
 
