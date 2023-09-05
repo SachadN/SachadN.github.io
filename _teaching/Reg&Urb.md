@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate-level course - Spatial, Transport and Environmental Economics"
 permalink: /teaching/Reg&Urb
 venue: "Vrije Universiteit, Amsterdam"
-date: 2019-Now
+date: 2019-10-01
 location: "Amsterdam, The Netherlands"
 ---
 
