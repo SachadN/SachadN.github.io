@@ -5,19 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Regional labour demand effects of decarbonisation in EU regions: A Spatial Computable General Equilibrium Analysis
+* **Regional labour demand effects of decarbonisation in EU regions: A Spatial Computable General Equilibrium Analysis**
      * Sacha den Nijs & Dr. Olga Ivanova (PBL)
      * Working paper
 
-* Clean Technology Adoption and Skill Sorting
+* **Clean Technology Adoption and Skill Sorting**
     * Sacha den Nijs & Stefanos Tyros (VU) 
     * Working paper test 
 
-* The energy efficiency gap and barriers to investments
+* **The energy efficiency gap and barriers to investments**
     * Sacha den Nijs, Leon Bremer (VU), Prof. Dr. Henri de Groot (VU) 
     * Working paper. Available <u><a href="https://tinbergen.nl/discussion-paper/6264/23-043-viii-the-energy-efficiency-gap-and-barriers-to-investments">here</a>.</u>
 
-* Regional competitive opportunities of fossil fuel cost changes and the role of decarbonization
+* **Regional competitive opportunities of fossil fuel cost changes and the role of decarbonization**
     * Sacha den Nijs & Dr. Mark Thissen (PBL Netherlands Environmental Assessment Agency) 
     * Working paper
 
