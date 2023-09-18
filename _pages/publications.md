@@ -22,14 +22,14 @@ author_profile: true
     * Working paper
 
 ---
-Policy Papers
-=== 
+Policy Papers 
+
 
 * Weterings, A., Bakens, J., Ivanova, O., den Nijs, S., Thissen, M., Abbink, H., & Bijlsma, I. (2022). Inzicht in arbeidsmarktknelpunten voor de uitvoering van het klimaatbeleid. Available <u><a href="https://www.pbl.nl/publicaties/inzicht-in-arbeidsmarktknelpunten-voor-de-uitvoering-van-het-klimaatbeleid">here</a>.</u>
 
 ---
 Other
-=== 
+
 
 * Weterings, A., Bakens, J., Thissen, M., den Nijs, S., Ivanova, O., & Pestel, N. (2023). Tekort aan technici voor de energietransitie vergt prioritering in investeringen. Available <u><a href="https://esb.nu/tekort-aan-technici-voor-de-energietransitie-vergt-prioritering-in-investeringen/">here</a>.</u>
 
