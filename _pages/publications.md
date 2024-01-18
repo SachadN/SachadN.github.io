@@ -11,7 +11,7 @@ author_profile: true
 
 * **Clean Technology Adoption and Skill Sorting**
     * Sacha den Nijs & Stefanos Tyros (VU) 
-    * Working paper test 
+    * Working paper. Available <u><a href="https://tinbergen.nl/discussion-paper/6295/23-075-vi-green-technology-adoption-and-skill-reallocation">here</a>.</u>
 
 * **The energy efficiency gap and barriers to investments**
     * Sacha den Nijs, Leon Bremer (VU), Prof. Dr. Henri de Groot (VU) 
@@ -19,7 +19,7 @@ author_profile: true
 
 * **Regional competitive opportunities of fossil fuel cost changes and the role of decarbonization**
     * Sacha den Nijs & Dr. Mark Thissen (PBL Netherlands Environmental Assessment Agency) 
-    * Working paper
+    * Working paper.
 
 ---
 Policy Papers 
